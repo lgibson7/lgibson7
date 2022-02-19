@@ -4,8 +4,7 @@
 
 - My name is Lydia Suzanne Gibson and I am a first year MS statistics student at Cal State East Bay in Hayward, CA.
 - I’m currently studying linear & logistic regression, design and analysis of experiments, and statistical learning.
-- Fun fact: I am learning to dance Bachata and relearning Spanish for my 2022 new years resolutions.
-- How to reach me: lgibson7@horizon.csueastbay.edu
+- Fun fact: I am learning to dance Bachata and relearning Spanish for my 2022 new year's resolutions.
 - Pronouns: she/her
 
 <!--
