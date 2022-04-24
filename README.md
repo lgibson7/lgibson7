@@ -1,8 +1,8 @@
 ### Hey there. I'm Lydia! 
 
-- I am a first-year MS statistics student at Cal State East Bay in Hayward, CA, expected graduation May 2023. 👩🏾‍🎓
+- I am a first-year MS statistics student at Cal State East Bay in Hayward, CA. I expect to graduate May 2023. 👩🏾‍🎓
 - I’m currently studying linear & logistic regression, design & analysis of experiments, and statistical learning. 📊
-- Fun fact: I am learning to dance Bachata for my 2022 new year's resolution. 💃🏾
+- Fun fact: I am learning to dance Bachata and relearning Spanish for my 2022 new year's resolutions. 💃🏾 
 - Pronouns: she/her 🚺
 
 
