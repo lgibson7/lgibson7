@@ -2,8 +2,8 @@
 
 - I am a MS Statistics student at California State University East Bay, graduating in May 2023. 👩🏾‍🎓
 - I’m currently studying linear & logistic regression, design & analysis of experiments, and statistical learning. 📊
-- Fun fact: I am learning to dance Bachata and brushing up on my spanish for my 2022 new year's resolutions. 💃🏾 
-- Pronouns: she/her 🚺
+- Fun fact: I'm learning to dance Bachata and brushing up on my spanish for my 2022 new year's resolutions. 💃🏾 
+- Pronouns: she/her/hers 🚺
 
 
 <!--
