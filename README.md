@@ -1,7 +1,7 @@
 ### Hey there! I'm Lydia. 👋🏾  
 
 - I am a MS Statistics student at California State University East Bay, graduating in May 2023. 👩🏾‍🎓
-- I’m currently studying linear & logistic regression, design & analysis of experiments, and statistical learning. 📊
+- I’m currently interning with Intel as a Data Analytics Graduate Intern. 📊
 - Fun fact: I'm learning to dance Bachata and brushing up on my spanish for my 2022 new year's resolutions. 💃🏾 
 - Pronouns: she/her/hers 🚺
 
