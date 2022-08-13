@@ -1,9 +1,9 @@
-### Hey there! I'm Lydia. 👋🏾  
+### Hey there! I'm Lydia (she/her). 👋🏾  
 
-- I'm a MS Statistics student at California State University East Bay in Hayward,CA. 👩🏾‍🎓
-- I’m currently working at Intel Corporation as a Data Analytics Graduate Intern. 📊
-- Fun fact: I enjoy dancing Bachata and I'm brushing up on my spanish language skills for my 2022 new year resolution. 💃🏾 
-- Pronouns: she/her/hers 🚺
+- I'm a 2nd year MS Statistics student at California State University East Bay in Hayward,CA. 👩🏾‍🎓
+- I’m a former Data Analytics Graduate Intern for Intel Corporation with interests in machine learning and data visualization. 📊
+- Fun fact: I enjoy dancing Bachata and I'm a big book nerd. Add me on [Goodreads](https://www.goodreads.com/user/show/107131397-lydia)! 💃🏾 
+
 
 
 <!--
