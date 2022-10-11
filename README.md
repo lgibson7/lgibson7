@@ -1,8 +1,12 @@
 ### Hey there! I'm Lydia (she/her). 👋🏾  
 
-- I'm a 2nd year MS Statistics student at California State University East Bay in Hayward,CA. 👩🏾‍🎓
-- I’m a former Data Analytics Graduate Intern for Intel Corporation with interests in machine learning and data visualization. 📊
-- Fun fact: I enjoy dancing Bachata and I'm a big book nerd. Add me on [Goodreads](https://www.goodreads.com/user/show/107131397-lydia)! 💃🏾 
+- I'm a second year M.S. Statistics student at California State University East Bay in Hayward, CA -- expected graduation May 2023. 👩🏾‍🎓
+
+- I’m a former Intel Data Analytics Graduate Intern with interests in machine learning and data visualization. 📊
+
+- I'm currently studying Advanced Statistical Theory, Advanced R for Data Science, Data Visualization, and Applied Research in Statistics and Biostatistics. 👩🏾‍🏫
+
+- Fun fact: I've recently started my own blog [*Once Upon a Time Series*](https://lgibson7.quarto.pub/once-upon-a-time-series/) and I love dancing Bachata. 💃🏾 
 
 
 
