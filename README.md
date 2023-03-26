@@ -8,7 +8,7 @@ You can find me elsewhere at:
 - 🐘 <a rel="nofollow me" href="https://fosstodon.org/@lydz_gibby">Mastodon</a>
 - 💼 [LinkedIn](https://www.linkedin.com/in/lgibson7/)
 
-[![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgibson7)
+![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgibson7)
 
 <!--
 **lgibson7/lgibson7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
