@@ -1,6 +1,6 @@
 ## Hey there! I'm Lydia. 
 
-I'm a recent MS Statistics graduate from California State University East Bay in Hayward. My interests include exploring the intricacies of data visualization, mainly using the R programming language, but I'm also learning [Tableau](https://public.tableau.com/app/profile/lydia.s.gibson). 
+I'm a recent MS Statistics graduate from California State University East Bay. My interests include exploring the intricacies of data visualization, mainly using the R programming language, but I'm also learning [Tableau](https://public.tableau.com/app/profile/lydia.s.gibson). 
 
 You can find me elsewhere at:
 
@@ -8,7 +8,6 @@ You can find me elsewhere at:
 - 🐘 <a rel="nofollow me" href="https://fosstodon.org/@lydz_gibby">Mastodon</a>
 - 💼 [LinkedIn](https://www.linkedin.com/in/lgibson7/)
 
-![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgibson7)
 
 ## Select Projects
 
