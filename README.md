@@ -1,6 +1,6 @@
-## Hey there! I'm Lydia. 
+## Hey there! I'm Lydia :)
 
-I'm a recent MS Statistics graduate from California State University East Bay. My interests include exploring the intricacies of data visualization, mainly using the R programming language, but I'm also learning [Tableau](https://public.tableau.com/app/profile/lydia.s.gibson). 
+I graduated with my Master's in Statistics from Cal State East Bay in May 2023, and I currently work at Intel as a Data Scientist. My interests include exploring the intricacies of data visualization, mainly using the R programming language, but I'm also learning Python and [Tableau](https://public.tableau.com/app/profile/lydia.s.gibson). 
 
 You can find me elsewhere at:
 
