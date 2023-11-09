@@ -24,6 +24,13 @@ You can find me elsewhere at:
 - Final Project for STAT 632 Linear and Logistic Regression, California State University East Bay, Spring 2022 
 - Explored the data for STEM college majors to find associations that influence median wages and create a predictive model for median wages. 
 
+###  Select assignments for [Stat 651](http://cox.csueastbay.edu/~esuess/statistics651/) Data Visualization, California State University East Bay, Fall 2022 
+
+- [Penguins Shiny app](https://lgibson7.shinyapps.io/Penguins_App/)
+- [Macleish Shiny app](https://lgibson7.shinyapps.io/Macleish_App/)
+- [Google Trends Shiny app](https://lgibson7.shinyapps.io/Comics/)
+- [Geocoding with Leaflet](https://rpubs.com/lgibson7/stat651hw3) 
+
 <!--
 **lgibson7/lgibson7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
