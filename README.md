@@ -9,11 +9,11 @@ You can find me elsewhere at:
 - 💼 [LinkedIn](https://www.linkedin.com/in/lgibson7/)
 
 
-## Select Projects
+## Select Projects and Assignments
 
 **Practicality of Using Transformations in Multiple Linear Regression**
 
-[*GitHub Repo*](https://github.com/lgibson7/Women-in-STEM) | [*Slide Presentation*](https://lgibson7.quarto.pub/women-in-stem) | [*Video Presentation*](https://youtu.be/2XkUYdLHsDA)
+[*GitHub Repo*](https://github.com/lgibson7/Women-in-STEM) | [*Slide Presentation*](https://lgibson7.quarto.pub/women-in-stem) | [*Video Presentation*](https://youtu.be/SsaSNjnyBmE?si=Pi_jczLulh33-SdU)
 - Final Project for STAT 694 Applied Research in Statistics & Biostatistics, California State University East Bay, Fall 2022
 - Compared the multiple linear regression (MLR) model with the inverse transformation dependent response variable to see how much prediction power is lost by not using a transformed response variable to fit a MLR model, and whether it is worth the inability to easily explain your model when using a transformed response variable.
 
@@ -24,7 +24,7 @@ You can find me elsewhere at:
 - Final Project for STAT 632 Linear and Logistic Regression, California State University East Bay, Spring 2022 
 - Explored the data for STEM college majors to find associations that influence median wages and create a predictive model for median wages. 
 
-###  Select assignments for [Stat 651](http://cox.csueastbay.edu/~esuess/statistics651/) Data Visualization, California State University East Bay, Fall 2022 
+**Data Visualization assignments**
 
 - [Penguins Shiny app](https://lgibson7.shinyapps.io/Penguins_App/)
 - [Macleish Shiny app](https://lgibson7.shinyapps.io/Macleish_App/)
