@@ -1,6 +1,6 @@
 ## Hey there! I'm Lydia :)
 
-I graduated with my Master's of Science in Statistics from California State University East Bay in May 2023, and I currently work at Intel as a Technology Development Data Scientist. When it comes to coding, my personal interests include exploring the intricacies of data visualization, mainly using the R programming language, but I'm also learning Python and [Tableau](https://public.tableau.com/app/profile/lydia.s.gibson). 
+I received my M.S. in Statistics from CSU East Bay in May 2023, and I currently work as a Data Scientist at Intel Foundry in the Technology Development business unit. I'm passionate about bringing people together around common goals of shared learning in diverse and inclusive communities. When it comes to coding, my personal interests include exploring the intricacies of data visualization, mainly using the R programming language. 
 
 You can find me elsewhere at:
 
