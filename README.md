@@ -1,6 +1,6 @@
 ## Hey there! I'm Lydia :)
 
-I received my M.S. in Statistics from CSU East Bay in May 2023, and I currently work as a Data Scientist at Intel Foundry in the Technology Development business unit. I'm passionate about bringing people together around common goals of shared learning in diverse and inclusive communities. When it comes to coding, my personal interests include exploring the intricacies of data visualization, mainly using the R programming language. 
+I received my M.S. in Statistics from CSU East Bay in May 2023, and I currently work as a Data Scientist at Intel in the Foundry Technology Development Analytics and Technology Automation business unit. I'm passionate about bringing people together around common goals of shared learning in diverse and inclusive communities. When it comes to coding, my personal interests include exploring the intricacies of data visualization, mainly using the R programming language. 
 
 You can find me elsewhere at:
 
@@ -32,12 +32,10 @@ You can find me elsewhere at:
 - Final Project for STAT 632 Linear and Logistic Regression, California State University East Bay, Spring 2022 
 - Explored the data for STEM college majors to find associations that influence median wages and create a predictive model for median wages. 
 
-**Data Visualization assignments**
+**Data Visualization**
 
-- [Penguins Shiny app](https://lgibson7.shinyapps.io/Penguins_App/)
-- [Macleish Shiny app](https://lgibson7.shinyapps.io/Macleish_App/)
-- [Google Trends Shiny app](https://lgibson7.shinyapps.io/Comics/)
-- [Geocoding with Leaflet](https://rpubs.com/lgibson7/stat651hw3) 
+[*GitHub Repo*](https://github.com/lgibson7/stat_651/) | [*Tableau*](https://public.tableau.com/app/profile/lydia.s.gibson/vizzes) | [*R Pub Notebooks*](https://rpubs.com/lgibson7/)
+- STAT 651 Data Visualization, California State University East Bay, Fall 2022 
 
 <!--
 **lgibson7/lgibson7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
