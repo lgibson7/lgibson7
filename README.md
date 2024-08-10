@@ -1,6 +1,6 @@
-## Hey there! I'm Lydia :)
+## Hey there! I'm Lydia Gibson, and I'm open to work. :)
 
-I received my M.S. in Statistics from CSU East Bay in May 2023, and I currently work as a Data Scientist at Intel in the Foundry Technology Development Analytics and Technology Automation business unit. I'm passionate about bringing people together around common goals of shared learning in diverse and inclusive communities. When it comes to coding, my personal interests include exploring the intricacies of data visualization, mainly using the R programming language. 
+I'm a career changer, completing my Master of Science in Statistics from California State University East Bay in May 2023. From June 2023 to July 2024, I worked as a Data Scientist providing statistical support and expertise to process engineers in Intel’s leading developmental. As of September 2023, I’m also a board member of the Data Science Learning Community (formerly known as the R4DS Online Learning Community, find us at https://dslc.io/). When it comes to coding, my interests include exploring the intricacies of data visualization, mainly using the R programming language. Outside of my professional life, I'm passionate about bringing people together around common goals of shared learning in diverse and inclusive communities.
 
 You can find me elsewhere at:
 
@@ -12,7 +12,7 @@ You can find me elsewhere at:
 
 ## Select Projects, Assignments, and Talks
 
-**How the R4DS Online Learning Community Made Me a Better Student**
+** posit::conf(2023) talk: How the R4DS Online Learning Community Made Me a Better Student**
 
 [*Recording*](https://youtu.be/O34cdFLotJ4?si=t2dUfY9bl2qBxrB4) | [*Slide Presentation*](https://lgibson7.quarto.pub/how-the-r4ds-online-learning-community-made-me-a-better-student/) | [*GitHub Repo*](https://github.com/lgibson7/R4DS_Made_Me_Better) 
 - Posit Conference, September 20, 2023. Talk Track: Developing your skillset; building your career. Session Code: TALK-1110
