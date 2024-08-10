@@ -12,11 +12,17 @@ You can find me elsewhere at:
 
 ## Select Projects, Assignments, and Talks
 
+**Cascadia R Conference 2024 talk: Learning Together at the Data Science Learning Community**
+
+[*Recording*]() coming soon | [*Slide Presentation*](https://drive.google.com/file/d/1RReRPAJvWzVhfn-lnZdQ6-ENZmEbXCfw/view?usp=drive_link) | [Abstract](https://cascadiarconf.com/2024/regular/lydia_gibson/)
+- Cascadia R Conf 2024, June 22, 2024. Talk Track: OuR journeys in community & collaboration
+- Description: Since 2017, the Data Science Learning Community (DSLC, fka the R4DS Online Learning Community) has organized weekly book clubs to help data science learners and practitioners read and discuss data science books in safe, nurturing, small-group cohorts. We also support one another by asking and answering programming questions in our Slack help channels. I discuss how we keep our Slack community friendly and inclusive, and various way to participate in the community.
+
 **posit::conf(2023) talk: How the R4DS Online Learning Community Made Me a Better Student**
 
-[*Recording*](https://youtu.be/O34cdFLotJ4?si=t2dUfY9bl2qBxrB4) | [*Slide Presentation*](https://lgibson7.quarto.pub/how-the-r4ds-online-learning-community-made-me-a-better-student/) | [*GitHub Repo*](https://github.com/lgibson7/R4DS_Made_Me_Better) 
+[*Recording*](https://youtu.be/O34cdFLotJ4?si=t2dUfY9bl2qBxrB4) | [*Slide Presentation*](https://lgibson7.quarto.pub/how-the-r4ds-online-learning-community-made-me-a-better-student/) | [*GitHub Repo*](https://github.com/lgibson7/R4DS_Made_Me_Better) | [Related Blog Post](https://lgibson7.quarto.pub/once-upon-a-time-series/posts/2023-03-31-Better_Student/)
 - Posit Conference, September 20, 2023. Talk Track: Developing your skillset; building your career. Session Code: TALK-1110
-- Through my participation in R4DS Online Learning Community, I have advanced my R and data science skills, making me a better student than I otherwise would have been through just my studies. As a non-traditional MS Statistics student with an undergraduate background in economics, I had absolutely no experience with the R programming language prior to pursuing my Master's degree. In July 2021, with hopes of getting a headstart on learning R before beginning my degree program, I joined the R4DS Slack Workspace. Along with helping to improve my programming skills, R4DS has connected me with scholarships, mentorship, and other opportunities, and I think that it would be beneficial for other students to know about this great resource.
+- Description: Through my participation in R4DS, I advanced my R and data science skills, making me a better student than I otherwise would have been through just my studies. Along with helping to improve my programming skills, R4DS connected me with scholarships, mentorship, and other opportunities. I discuss the benefits students gain by joining the community.
 
 **Practicality of Using Transformations in Multiple Linear Regression**
 
