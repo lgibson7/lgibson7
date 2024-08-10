@@ -12,7 +12,7 @@ You can find me elsewhere at:
 
 ## Select Projects, Assignments, and Talks
 
-** posit::conf(2023) talk: How the R4DS Online Learning Community Made Me a Better Student**
+**posit::conf(2023) talk: How the R4DS Online Learning Community Made Me a Better Student**
 
 [*Recording*](https://youtu.be/O34cdFLotJ4?si=t2dUfY9bl2qBxrB4) | [*Slide Presentation*](https://lgibson7.quarto.pub/how-the-r4ds-online-learning-community-made-me-a-better-student/) | [*GitHub Repo*](https://github.com/lgibson7/R4DS_Made_Me_Better) 
 - Posit Conference, September 20, 2023. Talk Track: Developing your skillset; building your career. Session Code: TALK-1110
